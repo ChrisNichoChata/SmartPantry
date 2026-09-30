@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_700">#2E7D32</color>
+    <color name="green_900">#1B5E20</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="amber_700">#FF8F00</color>
+    <color name="amber_200">#FFE082</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Status colours used for ingredient checks and expiry labels -->
+    <color name="status_ok">#2E7D32</color>
+    <color name="status_warning">#E65100</color>
+    <color name="status_bad">#C62828</color>
+    <color name="banner_background">#FFF3E0</color>
+    <color name="banner_text">#8A3B00</color>
+</resources>
